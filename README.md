@@ -1,7 +1,7 @@
 
 <h1 align='center'>Andréspolicrack</h1>
 
-<a align="right" href="https://discord.gg/tVKKEJBcyf" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tVKKEJBcyf" height="100" width="133" /></a>
+<a align="right" href="https://dsc.gg/fenix-dsc" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tVKKEJBcyf" height="100" width="133" /></a>
 
 - Me gusta programar en JavaScript
 - Desarrollador de bots de discord
