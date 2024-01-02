@@ -6,5 +6,5 @@
 - JS, TS and NodeJS ❤️
 - Discord Bot Developer
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/500739289462603805?borderRadius=20px&hideDiscrim=true&idleMessage=Resolving%20bugs%20probably)](https://discord.com/users/500739289462603805)
+[![Discord Presence](https://lanyard.cnrad.dev/api/500739289462603805?borderRadius=20px&hideDiscrim=true&idleMessage=Maybe%20sleeping%20🌙)](https://discord.com/users/500739289462603805)
 
