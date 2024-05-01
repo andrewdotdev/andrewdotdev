@@ -5,7 +5,7 @@
 
 - JS, TS and NodeJS ❤️
 - Discord Bot Developer
-- <a href="https://www.buymeacoffee.com/andrewes">Buy me a coffe</a>
+- <a href="https://www.buymeacoffee.com/andrewdotdev">Buy me a coffe</a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andrewdotdev&theme=dark&hide_border=true&locale=es&date_format=n%2Fj%5B%2FY%5D)](https://github.com/andrewdotdev)
 
