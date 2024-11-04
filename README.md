@@ -48,4 +48,4 @@ Currently, I'm an enthusiast of developing applications for discord.
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=andrewdotdev&show_icons=true&hide_border=true&count_private=true&theme=aura-dark&icon_color=fad000" alt="andrewdotdev's GitHub Stats">
+<img src="[https://github-readme-stats.vercel.app/api?username=andrewdotdev&show_icons=true&hide_border=true&count_private=true&theme=aura-dark&icon_color=fad000](https://github-stats-git-main-andrewdotdev-team.vercel.app/api?username=andrewdotdev&show_icons=true&hide_border=true&count_private=true&theme=aura-dark&icon_color=fad000)" alt="andrewdotdev's GitHub Stats">
