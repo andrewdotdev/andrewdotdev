@@ -24,7 +24,7 @@ Currently, I'm an enthusiast of developing applications for discord.
 <strong>About Me!<strong>
 
 - 👨🏽‍💻 I’m currently working as a Discord Applications Developer.
-- 🌱 I’m currently learning Typescript && C#. 
+- 🌱 I’m currently learning Typescript & C# & Rust. 
 - 🤔 My interests are listening to music and playing videogames.
 - 💬 I like to do some stuff in a developer group.
 - 🛰️ See [VoidX App](https://bit.ly/voidxtopgg).
