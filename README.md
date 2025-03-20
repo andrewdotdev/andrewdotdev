@@ -24,8 +24,7 @@ Currently, I'm an enthusiast of developing applications for discord.
 <strong>About Me!<strong>
 
 - 👨🏽‍💻 I’m currently working as a Discord Applications Developer.
-- 🌱 I’m currently learning Typescript & C# & Rust. 
-- 🤔 My interests are listening to music and playing videogames.
+- 🌱 I’m currently learning Rust & C++. 
 - 💬 I like to do some stuff in a developer group.
 - 🛰️ See [VoidX App](https://bit.ly/voidxtopgg).
 <!-- - 📫 Email me at [email](mailto:email). -->
@@ -44,6 +43,8 @@ Currently, I'm an enthusiast of developing applications for discord.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://i.imgur.com/ebn2Fzc.png"></code>
 
 
