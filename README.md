@@ -22,8 +22,8 @@ Hi there, I'm <strong>Andrew<strong>, from Spain, and my hobby is <strong>Progra
 <strong>About Me!<strong>
 
 - 👨🏽‍💻 I’m currently working as a Discord Applications Developer.
-- 🌱 I’m currently learning Rust & C++. 
-- 💬 I like to do some stuff in a developer group.
+- 🌱 Learning Rust & C++. 
+- 💬 I prefer working in group.
 - 🛰️ See [VoidX App](https://bit.ly/voidxtopgg).
 <!-- - 📫 Email me at [email](mailto:email). -->
 
