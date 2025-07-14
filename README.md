@@ -21,7 +21,7 @@ Hi there, I'm <strong>Andrew<strong>, from Spain.
 <br>
 <strong>About Me!<strong>
 
-- 👨🏽‍💻 I’m currently working as a Discord Applications Developer.
+- 👨🏽‍💻 I’m currently working as my hobby on Game Development with UE5.
 - 🌱 Learning Rust & C++. 
 - 💬 I prefer working in group.
 - 🛰️ See [VoidX App](https://bit.ly/voidxtopgg).
