@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h3 title="hehehe"> Hey 👋, I'm andrewdotdev! 🚀</h3>
 <!-- Here goes some social media LOL --> 
 <img src="https://komarev.com/ghpvc/?username=andrewdotdev&color=red">
-Hi there, I'm <strong>Andrew<strong>, from Spain, and my hobby is <strong>Programming<strong> various things 💻.
+Hi there, I'm <strong>Andrew<strong>, from Spain.
 <br>
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 <br>
