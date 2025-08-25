@@ -22,11 +22,11 @@
     <h2>🛠️ Tech stack</h2>
     <p>
       <!-- Languages -->
-      <img src="https://skillicons.dev/icons?i=js,ts,cpp,rust,cs&perline=8" alt="langs" />
+      <img src="https://skillicons.dev/icons?i=rust,js,ts,c,cpp,&perline=8" alt="langs" />
     </p>
     <p>
       <!-- Tools / Engines -->
-      <img src="https://skillicons.dev/icons?i=bash,git,unity,unreal,vscodium,arch,linux&perline=8" alt="tools" />
+      <img src="https://skillicons.dev/icons?i=bash,git,unity,unreal,vscodium,linux&perline=8" alt="tools" />
     </p>
   <p>
     <img src="https://img.shields.io/badge/CLI%20NERD-555?style=flat&logo=gnometerminal" />
