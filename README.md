@@ -53,7 +53,7 @@
 
 <h2>📈 GitHub Stats</h2>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=andrewdotdev&show_icons=true&hide_rank=true&hide_title=true&hide=issues&include_all_commits=true&theme=transparent" height="135" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewdotdev&layout=compact&theme=transparent" height="135" />
+  <img src="https://github-readme-stats-silk-two-18.vercel.app/api?username=andrewdotdev&show_icons=true&hide_rank=true&hide_title=true&hide=issues&include_all_commits=true&theme=transparent" height="135" />
+  <img src="https://github-readme-stats-silk-two-18.vercel.app/api/top-langs/?username=andrewdotdev&layout=compact&theme=transparent" height="135" />
 </p>
 
