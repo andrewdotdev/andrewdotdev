@@ -28,12 +28,6 @@
       <!-- Tools / Engines -->
       <img src="https://skillicons.dev/icons?i=bash,git,unity,unreal,vscodium,linux&perline=8" alt="tools" />
     </p>
-  <p>
-    <img src="https://img.shields.io/badge/CLI%20NERD-555?style=flat&logo=gnometerminal" />
-    <img src="https://img.shields.io/badge/BUG%20SUMMONER-555?style=flat&logo=bugsnag" />
-  </p>
-
-    
   </div>
 </div>
 
@@ -41,9 +35,9 @@
 
 <h2>📬 Contact</h2>
 <p>
-  <a href="https://github.com/andrewdotdev">
-    <img src="https://img.shields.io/badge/GitHub-andrewdotdev-181717?style=for-the-badge&logo=github" />
-  </a>
+<a href="mailto:andrewdotdev@icloud.com">
+  <img src="https://img.shields.io/badge/Email-andrewdotdev%40icloud.com-1DA1F2?style=for-the-badge" />
+</a>
   <a href="https://discordapp.com/users/500739289462603805">
     <img src="https://img.shields.io/badge/Discord-request%20DMs-5865F2?style=for-the-badge&logo=discord" />
   </a>
