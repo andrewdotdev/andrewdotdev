@@ -13,16 +13,14 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <em style="color:#888; font-size:15px;">(currently learning)</em>
   <br></br>
-  <strong>Madrid, Spain</strong> • 1st Year Spanish Baccalaureate + AIS Dual Diploma
+  <strong>Madrid, Spain</strong> • 1st Year Spanish Baccalaureate + Dual Diploma
 </div>
 
 ---
 
 ### About Me
 
-I'm a self-taught software developer passionate about building robust, efficient, and secure backend systems. I mainly enjoy systems programming and low-level concepts, with **Rust** as my primary language.
-
-Currently combining Spanish Baccalaureate with the **Dual Diploma** (fully taught in English), while developing personal projects with professional standards.
+I'm a self-taught software developer passionate about building robust, efficient, and secure backend systems. I mainly enjoy systems programming and low-level concepts, with Rust as my primary language.
 
 ### 🛠️ Tech Stack
 
