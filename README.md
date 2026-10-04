@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <em style="color:#888; font-size:15px;">(currently learning)</em>
   <br></br>
-  <strong>Madrid, Spain</strong> • 1st Year Spanish Baccalaureate + Dual Diploma
+  <strong>Madrid, Spain</strong>
 </div>
 
 ---
