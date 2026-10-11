@@ -54,5 +54,4 @@ A Discord API library written entirely in Rust, focused on performance, memory s
 
 ### 📫 Let's Connect
 
-- **Email**: andrewdotdev@icloud.com  
-- **Location**: Madrid, Spain
+- **Email**: andrewdotdev@icloud.com
