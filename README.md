@@ -15,7 +15,7 @@
 
 ### About Me
 
-I'm a self-taught software developer passionate about building robust, efficient, and secure backend systems. I mainly enjoy systems programming and low-level concepts, with Rust as my primary language.
+I'm a self-taught developer passionate about building efficient software. I mainly enjoy low-level concepts, with Rust as my primary language.
 
 ### 🛠️ Tech Stack
 
