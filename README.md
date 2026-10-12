@@ -1,10 +1,5 @@
 <div align="center">
   <h1>Hi, I'm Andrés (AKA Andrew) 👋</h1>
-  
-  <p>
-    <strong>Self-taught Software Developer</strong> • Backend & Systems Programming • Rust Enthusiast
-  </p>
-
   <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
