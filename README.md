@@ -48,7 +48,7 @@ I'm a self-taught software developer passionate about building robust, efficient
 **[`discord-ferris`](https://github.com/andrewdotdev/discord-ferris)**  
 A Discord API library written entirely in Rust, focused on performance, memory safety, and clean API design.
 
-*(All repositories are available on my profile)*
+*(Other smaller projects are also available on my [profile](https://github.com/andrewdotdev?tab=repositories))*
 
 ---
 
