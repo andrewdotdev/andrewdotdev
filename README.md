@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Andrés (AKA Andrew) 👋</h1>
+  <h1>Hi, I'm Andrés 👋</h1>
   <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <em style="color:#888; font-size:15px;">(currently learning)</em>
   <br></br>
-  <strong>Madrid, Spain</strong>
+  <strong>Madrid, Spain 🇪🇸</strong>
 </div>
 
 ---
