@@ -40,7 +40,7 @@ I'm a self-taught developer passionate about building efficient software. I main
 
 ### 🌟 Featured Projects
 
-**[`discord-ferris`](https://github.com/andrewdotdev/discord-ferris)**  
+**[`Zynx`](https://github.com/andrewdotdev/zynx)**  
 A Discord API library written entirely in Rust, focused on performance, memory safety, and clean API design.
 
 *(Other smaller projects are also available on my [profile](https://github.com/andrewdotdev?tab=repositories))*
