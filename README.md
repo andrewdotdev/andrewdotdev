@@ -15,7 +15,7 @@
 
 ### About Me
 
-I'm a self-taught developer passionate about building efficient software. I mainly enjoy low-level concepts, with Rust as my primary language.
+I'm a self-taught developer who likes building efficient, optimized and easy-to-use software, with Rust as my main language.
 
 ### 🛠️ Tech Stack
 
